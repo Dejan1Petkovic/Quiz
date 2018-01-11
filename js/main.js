@@ -56,7 +56,7 @@ function oneQuestion() {
     	}
       	h4.innerHTML = 'Question '+(counter + 1)+' / '+data.length;
   }else {
-  			h4.innerHTML ='Total score is : '+score+'!!!<br><a href="index.html">PLAY AGAIN</a>';
+  			h4.innerHTML ='Total score is : '+score+'!<br><a href="index.html">PLAY AGAIN</a>';
   }
 }
 
