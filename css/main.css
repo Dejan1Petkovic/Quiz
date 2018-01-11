@@ -15,7 +15,7 @@ header {
 .container {
   margin-top: 40px; }
   .container #mainRow h3 {
-    margin-bottom: 40px; }
+    margin-bottom: 30px; }
   .container #mainRow button {
     margin: 10px 0; }
   .container #selectedQuizRow {
@@ -28,7 +28,7 @@ header {
         text-align: center;
         width: 50%;
         background-color: cadetblue;
-        margin: 50px auto;
+        margin: 40px auto;
         padding: 20px;
         border-radius: 20px; }
 
