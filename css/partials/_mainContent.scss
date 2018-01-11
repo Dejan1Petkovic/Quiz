@@ -1,0 +1,35 @@
+.container {
+  margin-top: 40px;
+
+  #mainRow {
+    h3 {
+      margin-bottom: 40px;
+    }
+
+    button {
+      margin: 10px 0;
+    }
+  }
+
+  #selectedQuizRow {
+    display: none;
+
+    #questionsRow {
+      display: none;
+
+      button {
+        margin-bottom: 10px;
+      }
+
+      h4 {
+        text-align: center;
+        width: 50%;
+        background-color: cadetblue;
+        margin: 50px auto;
+        padding: 20px;
+        border-radius: 20px;
+      }
+      
+    }
+  }
+}
